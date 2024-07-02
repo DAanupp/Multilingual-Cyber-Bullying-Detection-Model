@@ -1,0 +1,8 @@
+pip-tools
+streamlit==1.27.0
+nltk
+scikit-learn==1.2.2
+pandas
+numpy
+fasttext==0.9.2
+
